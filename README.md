@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Ricardo Correa</h1>
 <h3 align="center">Un reciente Full Stack Web Development</h3>
 
-- 🔭 I’m currently working on [BikemMeApp](https://github.com/RichiCorrea/Proyecto-Final)
+- 🔭 Recientemente estuve trabajando en [BikemMeApp](https://github.com/RichiCorrea/Proyecto-Final)
 
 - 🌱 Estoy comenzando en el mundo de la programación web **Me gusta el Front-end**
 
-- 📫 How to reach me **Richi.correa.f@gmail.com**
+- 📫 Pedes contactarme en **Richi.correa.f@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
