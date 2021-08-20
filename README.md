@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Ricardo Correa</h1>
-<h3 align="center">Un reciente Full Stack Web Development</h3>
+<h3 align="center">Junior Full Stack Web Development</h3>
 
 - 🔭 Recientemente estuve trabajando en [BikemMeApp](https://github.com/RichiCorrea/Proyecto-Final)
 
