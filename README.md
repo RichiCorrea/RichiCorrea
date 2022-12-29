@@ -5,7 +5,7 @@
 
 - 🌱 Estoy comenzando en el mundo de la programación web **Me gusta el Front-end**
 
-- 📫 Pedes contactarme en **Richi.correa.f@gmail.com**
+- 📫 Puedes contactarme en **Richi.correa.f@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
